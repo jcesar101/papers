@@ -1,6 +1,6 @@
 Title: Active Learning techniques applied to Data Integration problems
 
-Authors: Julio Cesar Cortes, Tania Cortes, Angelica Maria Santillan
+Authors: Julio Cesar Cortes, Tania Cortes, Angelica Maria Santillan & Jonathan Boyle
 
 Introduction: My current research talks about the application of active
 learning to current standing problems in the data integration area...
