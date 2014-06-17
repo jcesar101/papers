@@ -1,6 +1,6 @@
-Title: My first paper
+Title: Our second paper
 
-Author: Julio Cesar Cortes
+Author: Julio Cesar Cortes, Tania Cortes
 
 Introduction: My current research talks about the application of active
 learning to current standing problems in the data integration area...
