@@ -1,4 +1,4 @@
-Title: Our second paper
+Title: Active Learning techniques applied to Data Integration problems
 
 Authors: Julio Cesar Cortes, Tania Cortes, Angelica Maria Santillan
 
