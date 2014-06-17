@@ -1,6 +1,6 @@
 Title: Our second paper
 
-Author: Julio Cesar Cortes, Tania Cortes
+Authors: Julio Cesar Cortes, Tania Cortes, Angelica Maria Santillan
 
 Introduction: My current research talks about the application of active
 learning to current standing problems in the data integration area...
