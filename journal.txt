@@ -1,6 +1,6 @@
 Title: My first paper
 
-Author: Julio Cesar Cortes
+Author: Mr. Julio Cesar Cortes Rios
 
 Introduction: My current research talks about the application of active
 learning to current standing problems in the data integration area...
