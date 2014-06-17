@@ -2,7 +2,8 @@ Title: My first paper
 
 Author: Julio Cesar Cortes
 
-Introduction: My current research talks about...
+Introduction: My current research talks about the application of active
+learning to current standing problems in the data integration area...
 
 Conclusion: Based on the results found for the experiments executed...
 
