@@ -1,9 +1,9 @@
-Title
+Title: My first paper
 
-Author
+Author: Julio Cesar Cortes
 
-Introduction
+Introduction: My current research talks about...
 
-Conclusion
+Conclusion: Based on the results found for the experiments executed...
 
-References
+References: (cor14)
